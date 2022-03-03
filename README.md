@@ -7,7 +7,7 @@ Due to the limited number of attributes, I only performed basic statistical anal
 This analysis is based on a public data set from an anonymous online retailer in UK, which contains order transactions from 2010 to 2011. 
 https://www.kaggle.com/rupakroy/online-retail?select=Online_Retail.csv
 
-## Key Findings
+## Key findings
 
 - Sales in November
 highest revenue achieved by largest number of customers but with lowest ATV. 
